@@ -1,0 +1,28 @@
+{
+    "name": "vd2030/projects",
+    "type": "laravel-module",
+    "description": "Project Management System",
+    "authors": [
+        {
+            "name": "Ahmed Badr",
+            "email": "badr.vmedia001@gmail.com"
+        },
+        {
+            "name": "Ahmed Wael",
+            "email": "wael.vmedia002@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Projects\\": ""
+        }
+    }
+}

@@ -1,0 +1,9 @@
+<x-admin-app>
+    @section('styles')
+        @include('projects::partial.head')
+    @endsection
+    @yield('content')
+    @section('script')
+        @include('projects::partial.script')
+    @endsection
+</x-admin-app>

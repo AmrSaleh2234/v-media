@@ -1,0 +1,27 @@
+// Fonts
+//@import url('https://fonts.bunny.net/css?family=Nunito');
+
+
+//@import url("fonts/TheSans-Bold.otf");
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+//@import 'bootstrap/scss/bootstrap';
+@import 'sweetalert2/src/sweetalert2.scss';
+@import 'filepond/dist/filepond.min.css';
+@import 'filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css';
+
+@import 'toastr/toastr';
+@import 'boxicons';
+
+
+// DataTables
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+@import "datatables.net-bs5/css/dataTables.bootstrap5.min.css";
+@import "datatables.net-buttons-bs5/css/buttons.bootstrap5.min.css";
+@import 'datatables.net-select-bs5/css/select.bootstrap5.css';
+
+
+@import '../css/app.css';
